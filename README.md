@@ -3,6 +3,8 @@ An exercise in `react-three-fiber`.
 
 I did this to learn a little more about `react-spring` and animations with quaternions.
 
+Click the tetrahedrons to add more.
+
 Sandbox: https://codesandbox.io/s/github/kafkiacode/sandbox-tetrahedrons-sphere
 
 
