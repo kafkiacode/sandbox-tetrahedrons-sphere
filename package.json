@@ -20,7 +20,7 @@
     "react-spring": "^9.0.0-beta.34",
     "react-three-fiber": "^4.0.14",
     "stats-js": "^1.0.1",
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
